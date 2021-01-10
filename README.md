@@ -1,6 +1,6 @@
 # Description
 
-These are some of the ModPE scripts that I created around five years ago using mostly JavaScript. These were made for Minecraft Pocket Edition (MCPE) and BlockLauncher, an app that lets you modify the game.
+These are some of the ModPE scripts that I created around 2013 using mostly JavaScript. These were made for Minecraft Pocket Edition (MCPE) and BlockLauncher, an app that lets you modify the game.
 
 The link for the original forum post five years ago can be found [here](https://www.minecraftforum.net/forums/minecraft-pocket-edition/mcpe-mods-tools/2175171-android-0-11-x-achievements-gui-statistics-gui).
 
